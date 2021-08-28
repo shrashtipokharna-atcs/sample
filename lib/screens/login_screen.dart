@@ -22,7 +22,7 @@ class _LoginScreenState extends State<LoginScreen> {
         child: Container(
           color: Color(0xffc2e0f9),
           alignment: Alignment.center,
-          padding: EdgeInsets.symmetric(horizontal: 20),
+          padding: EdgeInsets.symmetric(horizontal: 20.0),
           child: SingleChildScrollView(
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
