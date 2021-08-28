@@ -13,3 +13,12 @@ getText(textData,txtColor,fontSize){
 sendData(name){
   return "Welcome $name";
 }
+
+enum getData{
+  Doc,
+  PDF,
+  XLSX,
+  Video,
+  MP3,
+  Mp4
+}
