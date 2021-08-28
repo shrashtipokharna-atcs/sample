@@ -22,3 +22,7 @@ enum getData{
   MP3,
   Mp4
 }
+
+enum getValue{
+  Docx,
+}
