@@ -8,5 +8,5 @@ TextBlock | weight| 1.0|:heavy_check_mark:
 TextBlock | wrap| 1.0|:heavy_check_mark:
 TextBlock | maxLines| 1.0|:heavy_check_mark:
 TextBlock | fontType| 1.2|:x:
-TextBlock | horizontal Alignment| 1.0|:heavy_check_mark:
+TextBlock | horizontalAlignment| 1.0|:heavy_check_mark:
 TextBlock | isSubtle| 1.0|:heavy_check_mark:
