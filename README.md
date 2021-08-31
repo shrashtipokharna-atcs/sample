@@ -14,3 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Table
+
+Element | Attribute| Version | Implemented
+------------ | ------------- |----------| ---------
+TextBlock | type| 1.0|:heavy_check_mark:
+TextBlock | text| 1.0|:heavy_check_mark:
+TextBlock | color| 1.0|:heavy_check_mark:
+TextBlock | size| 1.0|:heavy_check_mark:
+TextBlock | weight| 1.0|:heavy_check_mark:
+TextBlock | wrap| 1.0|:heavy_check_mark:
+TextBlock | maxLines| 1.0|:heavy_check_mark:
+TextBlock | fontType| 1.2|:x:
+TextBlock | horizontal Alignment| 1.0|:heavy_check_mark:
+TextBlock | isSubtle| 1.0|:heavy_check_mark:
